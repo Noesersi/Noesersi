@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noé Ibáñez Torres</h1>
 <h3 align="center">A passionate frontend developer from Spain and I love this crazy world</h3>
 
-- 🔭 I’m currently working on [ThinkFlash - Interactive Learning Platform](https://think-flash.onrender.com/)
+- 🔭 I’m currently working on [ThinkFlash - Interactive Learning Platform](https://thinkflash.onrender.com/)
 
 - 🌱 I’m currently learning **Google Professional Certificate**
 
