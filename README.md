@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ThinkFlash - Interactive Learning Platform](https://thinkflash.onrender.com/)
 
-- 🌱 I’m currently learning **Google Professional Certificate**
+- 🌱 I’m currently learning **React Native Expo and Typescript**
 
 - 👯 I’m looking to collaborate on **All projects I can to improve my skills!**
 
